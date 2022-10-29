@@ -1,4 +1,4 @@
 using ScriptsFs;
 
-public class SimplePrintCs : SimplePrintFs
+public class SimplePrintFsHolder : SimplePrintFs
 {}
