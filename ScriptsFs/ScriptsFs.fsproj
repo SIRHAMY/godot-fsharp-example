@@ -1,0 +1,13 @@
+﻿<Project Sdk="Godot.NET.Sdk/3.3.0">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Library.fs" />
+    <Compile Include="SimplePrintFs.fs" />
+  </ItemGroup>
+
+</Project>
