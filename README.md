@@ -1,3 +1,5 @@
+_This repo is now archived. Subscribers to the [HAMINION membership](https://hamy.xyz/labs/haminions) have access to updates as well as full source code access for dozens of tutorials and examples._
+
 # Overview
 
 This is an example Godot project with support for scripting in both C# and F#.
